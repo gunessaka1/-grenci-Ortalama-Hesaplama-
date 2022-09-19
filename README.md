@@ -1,2 +1,2 @@
-# -grenci-Ortalama-Hesaplama-
-Ögrenci Ortalama Hesaplama 
+# Ogrenci-Ortalama-Hesaplama-
+Ogrenci Ortalama Hesaplama 
